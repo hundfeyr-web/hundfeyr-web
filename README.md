@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hundaol Feyera
 
-<!--
-**hundfeyr-web/hundfeyr-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year Mechanical Engineering student at Addis Ababa University (AAU). I work across mechanical design, simulation, and embedded hardware—taking concepts from CAD modeling and FEA analysis to custom PCBs, firmware, and 3D-printed prototypes.
 
-Here are some ideas to get you started:
+#### Focus Areas
+* **Mechanical Design & Simulation:** 3D modeling, mechanical assemblies, structural and thermal FEA, and MATLAB calculations.
+* **Mechatronics & Embedded Systems:** PCB schematic capture and layout in KiCAD, ESP32/Arduino firmware, and sensor/actuator integration.
+* **Prototyping:** Additive manufacturing (3D printing) and physical hardware testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools & Software
+![SolidWorks](https://shields.io)
+![AutoCAD](https://shields.io)
+![Fusion 360](https://shields.io)
+![ANSYS](https://shields.io)
+![MATLAB](https://shields.io)
+![KiCAD](https://shields.io)
+![ESP32](https://shields.io)
+![Arduino](https://shields.io)
+![Python](https://shields.io)
+![C++](https://shields.io)
+
+**Additional:** CATIA · Simulink · Raspberry Pi · 3D Printing (FDM/SLA) · CNC Basics · GD&T
+
+#### Connect
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:hundfeyr@gmail.com)
